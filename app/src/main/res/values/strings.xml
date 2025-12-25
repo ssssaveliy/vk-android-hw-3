@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">hw-3</string>
+    <string name="start_login">Войти</string>
+    <string name="start_register">Зарегистрироваться</string>
+    <string name="start_continue_without_account">Продолжить без аккаунта</string>
+
+    <string name="no_account_text_primary">
+    Без аккаунта вы не сможете получить доступ к своим заметкам с телефона, планшета или компьютера. Они останутся только здесь, и вы можете потерять их при смене или поломке устройства.
+</string>
+    <string name="no_account_text_secondary">
+    Чтобы настроить синхронизацию позже, необходимо будет войти или зарегистрироваться.
+</string>
+
+    <string name="reg_title">Регистрация</string>
+    <string name="reg_email_hint">Введите свою почту</string>
+    <string name="reg_password_hint">Введите пароль</string>
+    <string name="reg_repeat_password_hint">Повторите пароль</string>
+    <string name="reg_button">Зарегистрироваться</string>
+    <string name="reg_or_via">Или зарегистрируйтесь через</string>
+    <string name="reg_have_account">Есть аккаунт?</string>
+    <string name="reg_login_link">Войти</string>
+
+    <string name="login_title">Вход</string>
+    <string name="login_button">Войти</string>
+    <string name="login_forgot">Забыли пароль?</string>
+    <string name="login_or_via">Или зарегистрируйтесь через</string>
+    <string name="login_no_account">Нет аккаунта?</string>
+    <string name="login_register_link">Зарегистрироваться.</string>
+
+    <string name="forgot_email_title">Введите свою почту</string>
+    <string name="forgot_email_hint">Введите свою почту</string>
+    <string name="forgot_email_button">Получить код</string>
+
+    <string name="confirm_email_title">Подтвердите почту</string>
+    <string name="confirm_email_subtitle">
+На вашу почту %1$s придёт
+письмо с 4-значным кодом
+</string>
+    <string name="confirm_email_code_hint">Введите код из e-mail</string>
+    <string name="confirm_email_continue">Продолжить</string>
+    <string name="confirm_email_resend">Отправить ещё раз</string>
+    <string name="confirm_email_subtitle_1">
+    На вашу почту itmo@gmail.com придёт
+</string>
+    <string name="confirm_email_subtitle_2">
+    письмо с 4-значным кодом
+</string>
+
+    <string name="new_password_title">Введите новый пароль</string>
+    <string name="new_password_confirm">Подтвердить пароль</string>
+
+    <string name="main_empty_title">
+    Пока здесь пусто. Давайте создадим новую заметку?
+</string>
+    <string name="main_empty_button">Создать новую заметку</string>
+
+    <string name="note_title_default">Заголовок</string>
+    <string name="note_text_placeholder">Введите текст...</string>
+    <string name="changeable_title">Введите заголовок</string>
+
+
+</resources>
